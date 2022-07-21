@@ -1,6 +1,6 @@
 import time
 from datetime import datetime as dt
-hotspath=r'C:\Windows\System32\drivers\etc\hosts'
+hotspath=r'*//etc//hosts'
 redirect='127.0.0.1'
 website=input("Enter your website like www.google.com")
 while True:
